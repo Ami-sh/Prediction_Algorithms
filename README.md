@@ -1,5 +1,5 @@
 # Prediction_Algorithms
-This repository contains algorithms that is used to predict a value (here, it's to predict the 5 properties of electrical steel) using various libraries (sklearn, keras and tensorflow).This repository is nothing but the deploying of the algorithms using the libraries. Algorithms used:-
+This repository contains algorithms that is used to predict a value (here, it's to predict the 5 properties of electrical steel) using various libraries (sklearn, keras and tensorflow).This repository is nothing but the deploying of the algorithms using the existing libraries. Algorithms used:-
 
 1) Multiple Linear Regression
 2) Random Forest
